@@ -27,4 +27,4 @@
 
 我们的团队中有学生，有技术大佬，有公司老板。。。扫描下面二维码添加管理员微信，经审核后即可加入我们：
 
-![](http://7sbld9.com1.z0.glb.clouddn.com/WechatIMG56.jpeg)
+<img src="http://7sbld9.com1.z0.glb.clouddn.com/WechatIMG56.jpeg" width = "200" height = "200" alt="QRcode" align=center />
