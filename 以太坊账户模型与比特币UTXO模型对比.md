@@ -40,10 +40,10 @@ UTXO是不可拆分的，也就是说使用过之后一定有新的UTXO产生，
 每个账户都维护自己的“状态”，所有账户的状态代表的都是以太坊网络的“状态”。
 ### 以太坊账户的状态
 以太坊的账户状态由四个部分组成
-* nonce：外部账户代表交易次数。合约账户，nonce代表创建的合约序号。
-* balance： 此地址拥有Wei的数量。1Ether=10^18Wei（Wei是以太坊代币的一个单位）
-* storageRoot： Merkle Patricia树的根节点Hash值，Merkle树会将此账户存储内容的Hash值进行编码，默认是空值。
-* codeHash：账户EVM（以太坊虚拟机）代码的hash值。合约账户就是代码的Hash值。外部账户就是空字符串的Hash值
+* `nonce`：外部账户代表交易次数。合约账户，`nonce`代表创建的合约序号。
+* `balance`： 此地址拥有Wei的数量。`1Ether=10^18Wei`（Wei是以太坊代币的一个单位）
+* `storageRoot`： `Merkle Patricia`树的根节点Hash值，Merkle树会将此账户存储内容的Hash值进行编码，默认是空值。
+* `codeHash`：账户EVM（以太坊虚拟机）代码的hash值。合约账户就是代码的Hash值。外部账户就是空字符串的Hash值
 
 
 ## 比特币的UTXO模型与以太坊的账户模型优缺点分析
