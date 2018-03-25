@@ -68,11 +68,11 @@ contract SimpleStorage {
 ```
 
 通过本地Remix，连接本地私链创建智能合约，使用上述账户列表中第一个账户创建合约，如下图所示：    
-![image](https://note.youdao.com/favicon.ico)
+![image](https://github.com/dabaizi/taste-of-ethereum/blob/dev/images/2018/03/25/1521521987733.jpg)
 
 
 点击create，部署合约，合约部署后便会生成合约地址，如图：    
-![image](https://note.youdao.com/favicon.ico)
+![image](https://github.com/dabaizi/taste-of-ethereum/blob/dev/images/2018/03/25/1531521988096.jpg)
 
 上图地址中间部分被隐藏来，复制下来如下：
 
